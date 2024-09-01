@@ -15,8 +15,20 @@
 │   ├── README.md
 │   ├── requirements.txt
 │   └── utils.py
-├── 2 Sequential chats
+├── 2 Sequential chats and Customer Onboarding
 │   ├── L2_Sequential_Chats_and_Customer_Onboarding.ipynb
+│   └── README.md
+├── 3 Reflection and Blogpost Writing
+│   ├── L3_Reflection_and_Blogpost_Writing.ipynb
+│   └── README.md
+├── 4 Tool Use and Conversational Chess
+│   ├── L4_Tool_Use_and_Conversational_Chess.ipynb
+│   └── README.md
+├── 5 Coding and Financial Analysis
+│   ├── L5_Coding_and_Financial_Analysis.ipynb
+│   └── README.md
+├── 6 Planning and Stock Report Generation
+│   ├── L6-Planning_and_Stock_Report_Generation.ipynb
 │   └── README.md
 ├── Makefile
 ├── README.md
