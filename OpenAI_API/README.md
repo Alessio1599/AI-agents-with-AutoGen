@@ -7,5 +7,8 @@ Issues:
   - GPT4 has a limit of 8k tokens -> 100k
     - this limit is input+output tokens
 
+- We can define a function to compute the number of tokens
+
 # References
 1. [3 Tips for Working With the OpenAI API, Youtube video](https://www.youtube.com/watch?v=6NShYzAV1Lo)
+   1. [GitHub repository](https://github.com/ArjanCodes/examples/tree/main/2024/tuesday_tips/openai)
