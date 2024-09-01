@@ -8,4 +8,4 @@ In a customuer onboarding scenario:
 - survey customer's topic interest
 - customer engagement
 
-<img src="/Users/alessioguarachi/Desktop/AI-agents-with-AutoGen/img/customer_onboarding_task.png" alt="image" width="600"> 
+<img src="img/customer_onboarding_task.png" alt="image" width="600"> 
