@@ -3,7 +3,10 @@
 # Structure
 - [Lesson 1: Multi-Agent Conversation and Stand-up Comedy](https://github.com/Alessio1599/AI-agents-with-AutoGen/tree/main/1%20Multi-agent%20conversation%20and%20stand-up%20comedy)
 - [Lesson 2: Sequential Chats and Customer Onboarding](https://github.com/Alessio1599/AI-agents-with-AutoGen/tree/main/2%20Sequential%20chats)
-- []()
+- [Lesson 3: Reflection and Blogpost Writing]()
+- [Lesson 4: Tool Use and Conversational Chess]()
+- [Lesson 5: Coding and Financial Analysis]()
+- [Lesson 6: Planning and Stock Report Generation]()
 
 # Directory structure 
 ```
