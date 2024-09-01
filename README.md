@@ -1,5 +1,8 @@
 # AI-agents-with-AutoGen
 
+
+AutoGen is a framework that enables development of LLM applications using multi-agents. AutoGen framework can be used with any model via API or locally within your own environment.
+
 # Structure
 - [Lesson 1: Multi-Agent Conversation and Stand-up Comedy](https://github.com/Alessio1599/AI-agents-with-AutoGen/tree/main/1%20Multi-agent%20conversation%20and%20stand-up%20comedy)
 - [Lesson 2: Sequential Chats and Customer Onboarding](https://github.com/Alessio1599/AI-agents-with-AutoGen/tree/main/2%20Sequential%20chats)
@@ -51,3 +54,4 @@ agent = ConversableAgent(
 
 # Reference
 - [AI Agentic Design Patterns with AutoGen, DeepLearning.AI, short course](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
+- [AutoGen website, an Open-Source Programming Framework for Agentic AI](https://microsoft.github.io/autogen/)

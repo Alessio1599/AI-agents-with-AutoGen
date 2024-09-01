@@ -9,3 +9,5 @@ In a customer onboarding scenario:
 - customer engagement
 
 <img src="../img/customer_onboarding_task.png" alt="image" width="600"> 
+
+<img src="../img/conversations.png" alt="image" width="600"> 
