@@ -2,9 +2,9 @@
 BRANCH = main
 BROWSER = open  # You can specify your preferred browser here, e.g., firefox, chrome, safari
 URL3 = https://chatgpt.com/  # ChatGPT website
-URL4 = https://github.com/Alessio1599/Investments # GitHub repository
-URL5 = https://learn.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen/lesson/2/multi-agent-conversation-and-stand-up-comedy # Course website
-
+URL4 = https://github.com/Alessio1599/AI-agents-with-AutoGen/ # GitHub repository
+URL5 = https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/ # Course website
+# https://microsoft.github.io/autogen/ Autogen website
 
 # Default target
 all: pull push
@@ -29,7 +29,7 @@ push: commit
 q:
 	make m="$(m)" pull push
 
-open_gpt:
+gpt:
 	@echo "Opening website $(URL3)..."
 	$(BROWSER) $(URL3)
 
@@ -46,7 +46,7 @@ open_course:
 #    make q m="Your commit message"
 #
 # 2. Open the ChatGPT website:
-#    make open_gpt
+#    make gpt
 #
 # 3. Open the GitHub repository:
 #    make open_git
