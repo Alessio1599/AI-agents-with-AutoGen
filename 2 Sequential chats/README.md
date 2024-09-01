@@ -3,7 +3,7 @@
 In this lesson you will learn **how to leverage the multi-agent design to finish a task involving multiple steps**. You will build a sequence of task between multiple agents who collaborate to provide a fun customer onboarding experience for a product.
 
 # Content
-In a customuer onboarding scenario:
+In a customer onboarding scenario:
 - collect customer info
 - survey customer's topic interest
 - customer engagement

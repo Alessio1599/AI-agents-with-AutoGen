@@ -21,5 +21,18 @@
     └── customer_onboarding_task.png
 ```
 
+```python
+from autogen import ConversableAgent
+
+llm_config={"model":"gpt-3.5-turbo"}
+
+agent = ConversableAgent(
+    name='chatbot',
+    system_message='You are a chatbot and you are an expert financial advisor'
+    llm_config=llm_config,
+    human_input_mode='NEVER'
+)
+```
+
 # Reference
 - [AI Agentic Design Patterns with AutoGen, DeepLearning.AI, short course](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
