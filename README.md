@@ -14,6 +14,7 @@ AutoGen is a framework that enables development of LLM applications using multi-
 
 # Directory structure 
 ```
+AI-agents-with-AutoGen/
 ├── 1 Multi-agent conversation and stand-up comedy
 │   ├── L1_Multi-Agent_Conversation_and_Stand-up_Comedy.ipynb
 │   ├── README.md
@@ -34,7 +35,6 @@ AutoGen is a framework that enables development of LLM applications using multi-
 ├── 6 Planning and Stock Report Generation
 │   ├── L6-Planning_and_Stock_Report_Generation.ipynb
 │   └── README.md
-├── Makefile
 ├── README.md
 └── img
     └── customer_onboarding_task.png
