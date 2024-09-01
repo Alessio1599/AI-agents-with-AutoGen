@@ -8,4 +8,4 @@ Issues:
     - this limit is input+output tokens
 
 # References
-- [3 Tips for Working With the OpenAI API, Youtube video](https://www.youtube.com/watch?v=6NShYzAV1Lo)
+1. [3 Tips for Working With the OpenAI API, Youtube video](https://www.youtube.com/watch?v=6NShYzAV1Lo)

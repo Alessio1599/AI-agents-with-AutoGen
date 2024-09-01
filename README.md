@@ -72,5 +72,5 @@ By setting the system message, we can define the behavior of the agent.
 **summary_prompt**, to instruct the llm on how to do the summary
 
 # References
-- [AI Agentic Design Patterns with AutoGen, DeepLearning.AI, short course](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
-- [AutoGen website, an Open-Source Programming Framework for Agentic AI](https://microsoft.github.io/autogen/)
+1. [AI Agentic Design Patterns with AutoGen, DeepLearning.AI, short course](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
+2. [AutoGen website, an Open-Source Programming Framework for Agentic AI](https://microsoft.github.io/autogen/)
