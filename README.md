@@ -41,16 +41,17 @@ AutoGen is a framework that enables development of LLM applications using multi-
 ```
 
 # Getting started
-```
+```bash
 pip install pyautogen
 ```
 
-```
 # Example of code
+
 - define agents
 - define chat
 - initiate chat
 - see the chat history, and also the cost
+  
 ```python
 from autogen import ConversableAgent
 
@@ -62,15 +63,14 @@ agent = ConversableAgent(
     llm_config=llm_config,
     human_input_mode='NEVER'
 )
-
-
 ```
-By setting the systme message, we can define the behavior of the agent.
-Summary methods:
+
+By setting the system message, we can define the behavior of the agent.
+**Summary methods**:
 - "reflection_with_llm"
 
-summary_prompt, to instruct the llm on how to do the summary
+**summary_prompt**, to instruct the llm on how to do the summary
 
-# Reference
+# References
 - [AI Agentic Design Patterns with AutoGen, DeepLearning.AI, short course](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
 - [AutoGen website, an Open-Source Programming Framework for Agentic AI](https://microsoft.github.io/autogen/)
