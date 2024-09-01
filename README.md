@@ -39,6 +39,13 @@ AutoGen is a framework that enables development of LLM applications using multi-
 └── img
     └── customer_onboarding_task.png
 ```
+
+# Getting started
+```
+pip install pyautogen
+```
+
+```
 # Example of code
 - define agents
 - define chat
