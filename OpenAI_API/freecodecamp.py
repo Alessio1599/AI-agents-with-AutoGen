@@ -48,5 +48,14 @@ thread_id = 'thread_A83ryKXAIDKTa71iA8rrl0SE'
 # == Create a Message ==
 message = "What are the best exercises for lean muscles and getting rid of fat?"
 message = client.beta.threads.messages.create(
-    
+    thread_id=thread_id,
+    role="user",
+    content=message
+)
+
+# == Run our assistant ==
+run =client.beta.threads.runs.create(
+    thread_id=thread_id,
+    assistant_id=assistant_id,
+    instructions="Please address the user as James Bond"
 )
