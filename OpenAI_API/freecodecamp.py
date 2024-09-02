@@ -20,7 +20,6 @@ assistant_id = personal_trainer_assistant.id
 print(assistant_id)
 
 
-
 #== Thread ==
 # series of interactions or messages between you and the model that are related to a single topic or conversation.
 
