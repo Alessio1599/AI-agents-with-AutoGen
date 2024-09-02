@@ -37,9 +37,29 @@ AI-agents-with-AutoGen/
 ├── 6 Planning and Stock Report Generation
 │   ├── L6-Planning_and_Stock_Report_Generation.ipynb
 │   └── README.md
+├── AI_agent_autogen.py
+├── AI_agents_thesis
+│   └── README.md
+├── OpenAI_API
+│   ├── GPT3-5-turbo.py
+│   ├── GPT4.py
+│   ├── README.md
+│   ├── main.py
+│   └── short_story.txt
 ├── README.md
-└── img
-    └── customer_onboarding_task.png
+├── coding
+├── finetune_LLM
+│   ├── README.md
+│   └── sentiment_analysis.py
+├── hugging-face
+│   └── GPT2.py
+├── img
+│   ├── conversations.png
+│   ├── customer_onboarding_task.png
+│   ├── intro.png
+│   ├── nested chats.png
+│   └── reflection.png
+└── requirements.txt
 ```
 
 # Getting started
