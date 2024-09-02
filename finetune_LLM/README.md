@@ -3,8 +3,9 @@
 > See a video where they show you how to use a transform from Hugging face
 
 # Open-source LLMs
-- LLAMA 3
-- 
+- LLaMA (Large Language Model Meta AI) 3
+- GPT-Neo and GPT-J developed by EleutherAI
+- Mistral
 
 # [1] Fine-tuning Large Language Models
 - Fine-tune an exisiting LLM for a specific case
