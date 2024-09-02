@@ -2,6 +2,7 @@
 > I should understand how can I fine tune open source models, and also how I can create agents!!!! Because with OpenAI I have limitations and also I have a privacy problem
 
 AutoGen is a framework that enables development of LLM applications using multi-agents. AutoGen framework can be used with any model via API or locally within your own environment.
+
 <img src="img/intro.png" alt="image" width="600"> 
 
 # Structure
@@ -66,6 +67,7 @@ agent = ConversableAgent(
 ```
 
 By setting the system message, we can define the behavior of the agent.
+
 **Summary methods**:
 - "reflection_with_llm"
 
