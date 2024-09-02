@@ -40,22 +40,3 @@ thread_id = thread.id
 print(thread_id)
 
 # Running the previous part of code I've created an assistant called "Personal Trainer" and a thread with a message from the user asking how to get started working out to loose fat and build muscles. Now I will use the assistant to respond to the user's message.
-
-# == Hardcode our ids ==
-assistant_id = 'asst_hhUxKDVQaYfUBnBh5V4lclka'
-thread_id = 'thread_A83ryKXAIDKTa71iA8rrl0SE'
-
-# == Create a Message ==
-message = "What are the best exercises for lean muscles and getting rid of fat?"
-message = client.beta.threads.messages.create(
-    thread_id=thread_id,
-    role="user",
-    content=message
-)
-
-# == Run our assistant ==
-run =client.beta.threads.runs.create(
-    thread_id=thread_id,
-    assistant_id=assistant_id,
-    instructions="Please address the user as James Bond"
-)
