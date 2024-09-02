@@ -12,3 +12,7 @@ Issues:
 # References
 1. [3 Tips for Working With the OpenAI API, Youtube video](https://www.youtube.com/watch?v=6NShYzAV1Lo)
    1. [GitHub repository](https://github.com/ArjanCodes/examples/tree/main/2024/tuesday_tips/openai)
+
+# OpenAI API references
+1. [OpenAI cookbook GitHub repository](https://github.com/openai/openai-cookbook)
+2. [Official Python library for the OpenAI API](https://github.com/openai/openai-python)
