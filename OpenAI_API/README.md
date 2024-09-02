@@ -14,9 +14,13 @@ Description:
 
 "Learn how to use the OpenAI's Assistants API to build powerful AI assistants. In this course, we'll explore how to leverage the Assistants API by OpenAI to create dynamic, intelligent web apps using Streamlit. 
 What we'll cover:
+
 1️⃣ Function Calling with the API: Learn to seamlessly integrate the Assistants API into your applications, enabling advanced AI functionalities right at your fingertips.
+
 2️⃣ Knowledge Retrieval: Discover how to use the API to extract information, answer questions, and make your applications smarter and more responsive.
+
 3️⃣ Code Interpreter Capabilities: Dive into the API's ability to interpret and generate code, a game-changer for automating tasks and enhancing your app's capabilities.
+
 4️⃣ LLM Fundamentals: Gain a solid understanding of Large Language Models (LLMs) and how they form the backbone of OpenAI's Assistants API. This module demystifies the technology and provides a foundation for advanced application development."
 
 # References
