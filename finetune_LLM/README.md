@@ -1,4 +1,6 @@
 # Finetune LLMs
+> Check also the transformer documentation on Hugging face
+> See a video where they show you how to use a transform from Hugging face
 
 # Open-source LLMs
 - LLAMA 3
