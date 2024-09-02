@@ -44,6 +44,7 @@ AI-agents-with-AutoGen/
 │   ├── GPT3-5-turbo.py
 │   ├── GPT4.py
 │   ├── README.md
+│   ├── freecodecamp.py
 │   ├── main.py
 │   └── short_story.txt
 ├── README.md
@@ -52,7 +53,9 @@ AI-agents-with-AutoGen/
 │   ├── README.md
 │   └── sentiment_analysis.py
 ├── hugging-face
-│   └── GPT2.py
+│   ├── GPT2.py
+│   ├── GPTNeo.py
+│   └── README.md
 ├── img
 │   ├── conversations.png
 │   ├── customer_onboarding_task.png
