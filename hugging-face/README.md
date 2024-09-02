@@ -1,5 +1,8 @@
 # Hugging face
 
+# GPTNeo
+I've tried running locally this model ... I need to download 10 GB of model. 
+
 # Open-source LLMs available on Hugging face
 - BERT (Bidirectional Encoder Representations from Transformers)
   - bert-base-uncased
