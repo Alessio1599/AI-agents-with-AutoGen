@@ -1,5 +1,6 @@
 # Finetune LLMs
 > Check also the transformer documentation on Hugging face
+
 > See a video where they show you how to use a transform from Hugging face
 
 # Open-source LLMs
@@ -7,7 +8,7 @@
 - GPT-Neo and GPT-J developed by EleutherAI
 - Mistral
 
-# [1] Fine-tuning Large Language Models
+# Fine-tuning Large Language Models [1]
 - Fine-tune an exisiting LLM for a specific case
 - A smaller (fine-tuned) model can outperform a larger base model
 
