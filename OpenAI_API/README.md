@@ -1,6 +1,8 @@
 # OpenAI API
 > JSON (JavaScript Object Notation) is commonly used to format data in various applications, including responses from language models (LLMs)
 
+> Check the OpenAI platform (playground, dashboard)
+
 Issues:
 - Take token limits into account
   - OpenAI GPT 3.5 turbo has a token limit of about 16k tokens
