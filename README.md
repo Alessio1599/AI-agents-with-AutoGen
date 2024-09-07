@@ -6,7 +6,7 @@ AutoGen is a framework that enables development of LLM applications using multi-
 
 <img src="img/intro.png" alt="image" width="600"> 
 
-# Lessons
+## Lessons
 - [Lesson 1: Multi-Agent Conversation and Stand-up Comedy](https://github.com/Alessio1599/AI-agents-with-AutoGen/tree/main/1%20Multi-agent%20conversation%20and%20stand-up%20comedy)
 - [Lesson 2: Sequential Chats and Customer Onboarding](https://github.com/Alessio1599/AI-agents-with-AutoGen/tree/main/2%20Sequential%20chats)
 - [Lesson 3: Reflection and Blogpost Writing](https://github.com/Alessio1599/AI-agents-with-AutoGen/tree/main/3%20Reflection%20and%20Blogpost%20Writing)
@@ -16,14 +16,14 @@ AutoGen is a framework that enables development of LLM applications using multi-
 
 ## Table of contents
 - [AI-agents-with-AutoGen](#ai-agents-with-autogen)
-- [Lessons](#lessons)
+  - [Lessons](#lessons)
   - [Table of contents](#table-of-contents)
-- [Directory structure](#directory-structure)
-- [Getting started](#getting-started)
-- [Example of code](#example-of-code)
-- [References](#references)
+  - [Directory structure](#directory-structure)
+  - [Getting started](#getting-started)
+  - [Example of code](#example-of-code)
+  - [References](#references)
 
-# Directory structure 
+## Directory structure 
 ```
 AI-agents-with-AutoGen/
 ├── 1 Multi-agent conversation and stand-up comedy
@@ -74,12 +74,12 @@ AI-agents-with-AutoGen/
 └── requirements.txt
 ```
 
-# Getting started
+## Getting started
 ```bash
 pip install pyautogen
 ```
 
-# Example of code
+## Example of code
 
 - define agents
 - define chat
@@ -106,7 +106,7 @@ By setting the system message, we can define the behavior of the agent.
 
 **summary_prompt**, to instruct the llm on how to do the summary
 
-# References
+## References
 1. [AI Agentic Design Patterns with AutoGen, DeepLearning.AI, short course](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
 2. [AutoGen website, an Open-Source Programming Framework for Agentic AI](https://microsoft.github.io/autogen/)
    1. [Getting started](https://microsoft.github.io/autogen/docs/Getting-Started)
