@@ -1,8 +1,4 @@
 # AI-agents-with-AutoGen
-> I should understand how can I fine tune open source models, and also how I can create agents!!!! Because with OpenAI I have limitations and also I have a privacy problem
-> Pay attention to the version of the libraries
-
-- I started using AutoGen, but then I had a problem with the openai key, so I didn't continue... I also commented on StackOverflow
 
 AutoGen is a framework that enables development of LLM applications using multi-agents. AutoGen framework can be used with any model via API or locally within your own environment.
 

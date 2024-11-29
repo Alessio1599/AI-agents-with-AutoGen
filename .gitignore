@@ -3,3 +3,5 @@ Makefile
 .cache
 finetune_LLM/
 OpenAI_API/
+
+docs/
